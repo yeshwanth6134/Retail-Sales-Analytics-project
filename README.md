@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">❄️ Retail Sales Analytics Pipeline</h1>
 
 <p align="center">
@@ -181,7 +181,7 @@ BI Tools / Reports / KPIs
 <p>MIT License</p>
 
 <p align="center">
-💡 Designed & Developed by <strong>Vishnu Vardhan</strong>  
+💡 Designed & Developed by <strong>Teela Chittibabu</strong>  
 <br/>Data Engineering Enthusiast | India 🇮🇳
 </p>
 =======
