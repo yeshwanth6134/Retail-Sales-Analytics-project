@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">❄️ Retail Sales Analytics Pipeline</h1>
 
 <p align="center">
@@ -183,3 +184,6 @@ BI Tools / Reports / KPIs
 💡 Designed & Developed by <strong>Vishnu Vardhan</strong>  
 <br/>Data Engineering Enthusiast | India 🇮🇳
 </p>
+=======
+# final-project
+>>>>>>> 0021e86917778f05e412a05234fbf6b1b61f86dd
